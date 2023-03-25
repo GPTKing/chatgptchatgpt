@@ -30,16 +30,16 @@
 - 更多配置和搭建教程有时间在整理更新，目前新功能迭代请大家谅解
 
 ## 界面1
-![](https://github.com/jasonsooo/chatgpt/blob/main/111.jpg)
+![](https://gitee.com/maxmansx/chatgpt/blob/master/111.jpg)
 
 ## 界面2
-![](https://github.com/jasonsooo/chatgpt/blob/main/222.png)
+![](https://gitee.com/maxmansx/chatgpt/blob/master/222.png)
 
 ## 界面3
-![](https://github.com/jasonsooo/chatgpt/blob/main/333.png)
+![](https://gitee.com/maxmansx/chatgpt/blob/master/333.png)
 
 ## 界面4
-![](https://github.com/jasonsooo/chatgpt/blob/main/444.png)
+![](https://gitee.com/maxmansx/chatgpt/blob/master/444.png)
 
 ## 界面5
-![](https://github.com/jasonsooo/chatgpt/blob/main/555.png)
+![](https://gitee.com/maxmansx/chatgpt/blob/master/555.png)
